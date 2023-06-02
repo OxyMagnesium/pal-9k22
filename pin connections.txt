@@ -1,0 +1,32 @@
+J1
+1 gnd
+2 SCLK
+3 MISO
+4 MOSI
+
+J2
+1 gnd
+2 PA7
+
+J3
+1 gnd
+2 9v
+3 K2 load 1
+4 K1 load 1
+5 K2 load 2
+6 K1 load 2
+
+J4
+1 gnd
+2 TOSC1
+3 TOSC2
+
+J5
+1 gnd
+2 UDPI/RESET
+
+J6
+1 gnd
+2 gnd
+3 gnd
+4 3v
